@@ -7,7 +7,7 @@
 ## Korte introductie Web Scraping met Python en Jupyter
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EdF2021/presentatie/main?labpath=introductie_bronnen.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EdF2021/presentatie/?tree=introductie_bronnen.ipynb)
 
 
 
