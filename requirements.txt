@@ -1,0 +1,7 @@
+pandas
+numpy 
+requests_html 
+openpyxl 
+matplotlib 
+bqplot 
+newspaper3k
