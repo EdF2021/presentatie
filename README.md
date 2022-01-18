@@ -9,7 +9,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EdF2021/presentatie/main?tree=introductie_databronnen.ipynb/tree)
 
-[![Binder](https://mybinder.org/v2/gh/EdF2021/presentatie/adbe43af4939b8e1d4f7d32a6bcca23d965c88b1?urlpath=lab%2Ftree%2Fintroductie_databronnen.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EdF2021/presentatie/adbe43af4939b8e1d4f7d32a6bcca23d965c88b1?urlpath=lab%2Ftree%2Fintroductie_databronnen.ipynb)
 
 
 
