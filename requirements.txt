@@ -5,3 +5,5 @@ openpyxl
 matplotlib 
 bqplot 
 newspaper3k
+wordcloud
+PIL
