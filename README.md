@@ -6,6 +6,7 @@
 # Het Internet als databron 
 ## Korte introductie Web Scraping met Python en Jupyter
 
+[Bekijk het live](introductie_databronnen.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EdF2021/presentatie/main?tree=introductie_databronnen.ipynb/tree)
 
